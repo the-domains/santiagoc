@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Santiagoc]]></title>
+        <description><![CDATA[Santiagoc]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Mar 2016 06:42:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Burn blog ]]></title>
+            <description><![CDATA[<article><h1>Burn blog </h1><p>Mashable is a leading global media company that informs, inspires and entertains the digital generation.</p></article>]]></description>
+            <link>undefinedburn-blog/index.html</link>
+            <guid isPermaLink="false">220374e4-618c-498f-a1ec-a0ef20cb19f1</guid>
+            <pubDate>Thu, 17 Mar 2016 06:42:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
