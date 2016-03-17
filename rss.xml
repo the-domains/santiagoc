@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Santiagoc]]></title>
         <description><![CDATA[Santiagoc]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/santiagoc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 06:42:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 06:42:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/santiagoc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Look and feel nuevo prove to]]></title>
+            <description><![CDATA[<article><h1>Look and feel nuevo prove to</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9150031d-6129-42fc-91c4-7df57e4e4b28.png"></article>]]></description>
+            <link>https://thegrid.ai/santiagoc/look-and-feel-nuevo-prove-to/index.html</link>
+            <guid isPermaLink="false">b80038c0-df2d-4e48-8493-ae6404376293</guid>
+            <pubDate>Thu, 17 Mar 2016 06:42:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Burn blog ]]></title>
             <description><![CDATA[<article><h1>Burn blog </h1><p>Mashable is a leading global media company that informs, inspires and entertains the digital generation.</p></article>]]></description>
-            <link>undefinedburn-blog/index.html</link>
+            <link>https://thegrid.ai/santiagoc/burn-blog/index.html</link>
             <guid isPermaLink="false">220374e4-618c-498f-a1ec-a0ef20cb19f1</guid>
             <pubDate>Thu, 17 Mar 2016 06:42:28 GMT</pubDate>
         </item>
